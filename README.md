@@ -1,6 +1,6 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
-<p align="left">Meu nome é Lucas Caetano Martins Barreto e sou um Desenvolvedor Full Stack Java.</p>
+<p align="left">Meu nome é Lucas Caetano e sou um Desenvolvedor Full Stack Java.</p>
 
 <h2 align="left">Sobre mim</h2>
 
