@@ -1,10 +1,10 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Olá, como vai?</h1>
 
 <p align="left">Meu nome é Lucas Caetano e sou um Desenvolvedor Full Stack Java.</p>
 
 <h2 align="left">Sobre mim</h2>
 
-<p align="left">✨ Desenvolvendo soluções escaláveis e seguras. <br>📚 Atualmente estou cursando Análise e Desenvolvimento de Sistemas e me aprofundando em soluções cloud.<br>🎯 Meu objetivo é contribuir para equipes que valorizem inovação, qualidade e colaboração.<br>🎲 Fato curioso: Minha formação em Psicologia me oferece uma perspectiva única sobre experiência do usuário e dinâmicas de equipe.</p>
+<p align="left"> Desenvolvendo soluções escaláveis e seguras. <br> Atualmente estou cursando Análise e Desenvolvimento de Sistemas.<br> Meu objetivo é contribuir para equipes que valorizem inovação, qualidade e colaboração.<br> Fato curioso: Minha formação em Psicologia me oferece uma perspectiva única sobre experiência do usuário e dinâmicas de equipe.</p>
 
 <h2 align="left">Eu programo com</h2>
 
